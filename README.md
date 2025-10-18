@@ -23,8 +23,8 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Docker"
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/samloh84/svg-devops-logos/blob/master/logos_docker.svg" 
