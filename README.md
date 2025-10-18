@@ -18,7 +18,7 @@
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devops/devops-original.svg" 
 />
 <img 
     align="left" 
