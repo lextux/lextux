@@ -1,4 +1,4 @@
-## Alexandre  👋
+## Alexandre 
 **`Desenvolvedor Backend`**
 
 
